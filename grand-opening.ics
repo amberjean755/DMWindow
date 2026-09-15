@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Dave and Marbies Cafe//Grand Opening//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dave-marbies-grand-opening-2027@daveandmarbiescafe
+DTSTAMP:20260915T000000Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:Dave & Marbie's Grand Opening
+DESCRIPTION:Come celebrate the grand opening of Dave & Marbie's Cafe - FroYo and coffee on Main Street!
+LOCATION:200 Main St E\, Suite 101\, Menomonie\, WI
+END:VEVENT
+END:VCALENDAR
